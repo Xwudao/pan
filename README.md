@@ -21,6 +21,9 @@
 - 等等其它功能，在下面的演示环境中体验吧！
 
 
+详细文档参见：https://docs.hunhepan.com/reman/
+
+
 ## 演示环境
 
 首页：https://reman.xwd.pw
