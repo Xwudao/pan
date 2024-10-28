@@ -31,8 +31,9 @@
 
 ## 推荐的服务器
 
-雨云服务器
+最低配置：2c4g
 
+系统建议：Ubuntu 22.04
 
 雨云地址：[https://www.rainyun.com](https://www.rainyun.com/Mzc4MDI=_)
 
