@@ -25,9 +25,9 @@
 
 后台登录：<https://reman.xwd.pw/login>
 
-用户名：admin
+用户名：`admin`
 
-密码：Au2m1TdM
+密码：`l2LMZ$WsNuw$2S`
 
 ## 推荐的服务器
 
